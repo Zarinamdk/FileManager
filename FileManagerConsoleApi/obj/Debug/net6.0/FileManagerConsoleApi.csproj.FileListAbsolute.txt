@@ -1,0 +1,36 @@
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.AssemblyReference.cache
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.AssemblyInfoInputs.cache
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.AssemblyInfo.cs
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.CoreCompileInputs.cache
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.exe
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.deps.json
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.runtimeconfig.json
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.dll
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.pdb
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerCommandsLib.dll
+E:\FileManager\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.CopyComplete
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.dll
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\refint\FileManagerConsoleApi.dll
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.pdb
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.genruntimeconfig.cache
+E:\FileManager\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\ref\FileManagerConsoleApi.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.exe
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.deps.json
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.runtimeconfig.json
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerConsoleApi.pdb
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerCommandsLib.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\bin\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.AssemblyReference.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.AssemblyInfoInputs.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.AssemblyInfo.cs
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.CoreCompileInputs.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.csproj.CopyComplete
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\refint\FileManagerConsoleApi.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.pdb
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\FileManagerConsoleApi.genruntimeconfig.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerConsoleApi\obj\Debug\net6.0\ref\FileManagerConsoleApi.dll

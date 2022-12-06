@@ -1,0 +1,24 @@
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.AssemblyReference.cache
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfoInputs.cache
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfo.cs
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.CoreCompileInputs.cache
+E:\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.deps.json
+E:\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.dll
+E:\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.dll
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\refint\FileManagerCommandsLib.dll
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\ref\FileManagerCommandsLib.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.deps.json
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.AssemblyReference.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfoInputs.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfo.cs
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.CoreCompileInputs.cache
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\refint\FileManagerCommandsLib.dll
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.pdb
+E:\Файловый менеджер\FileManager(ukt,)\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\ref\FileManagerCommandsLib.dll

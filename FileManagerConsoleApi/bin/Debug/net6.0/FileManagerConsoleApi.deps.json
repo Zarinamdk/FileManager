@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileManagerConsoleApi/1.0.0": {
+        "dependencies": {
+          "FileManagerCommandsLib": "1.0.0"
+        },
+        "runtime": {
+          "FileManagerConsoleApi.dll": {}
+        }
+      },
+      "FileManagerCommandsLib/1.0.0": {
+        "runtime": {
+          "FileManagerCommandsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileManagerConsoleApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileManagerCommandsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
